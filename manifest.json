@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "JUET Captcha Autofill",
+    "version": "1.0",
+    "description": "Automatically fills CAPTCHA on JUET Webkiosk login page",
+    "content_scripts": [
+      {
+        "matches": ["https://webkiosk.juet.ac.in/*"],
+        "js": ["content.js"],
+        "run_at": "document_idle"
+      }
+    ],
+    "permissions": ["scripting"]
+  }
+  
