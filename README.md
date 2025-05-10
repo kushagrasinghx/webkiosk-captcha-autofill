@@ -46,20 +46,7 @@ juet-captcha-autofiller/
 
 ---
 
-## 📸 Demo
-
-_Coming soon…_  
-(You can add a GIF or screenshot of the toast popup here.)
-
----
-
 ## 🙌 Credits
 
 - Font: [DM Sans](https://fonts.google.com/specimen/DM+Sans)  
-- Developed with ❤️ to help JUET students skip repetitive typing
-
----
-
-## 📃 License
-
-This project is licensed under the MIT License.
+- Developed with ❤️ to help JUET students skip repetitive typing.
